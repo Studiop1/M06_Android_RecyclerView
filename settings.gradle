@@ -1,0 +1,2 @@
+rootProject.name = "M06_Lab_Layouts_Styles_Themes"
+include ':app'

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--I added this file, because it didn't exist.  You could instead use the themes.xml
+In this file you will define the Lab_font style and then move back to the layout file to
+start using that style.
+You will also later come back and define a theme.  What is a theme and what is a style?
+Theme applies to most of the application.  Style applies to exceptions.  So if your text
+in the app is blue, and you want one word in red.  Then blue is the theme and red the style
+-->
+<resources></resources>
